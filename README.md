@@ -1,1 +1,1 @@
-# study-dio-dinogame
+# Dino Game
